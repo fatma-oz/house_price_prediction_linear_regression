@@ -6,7 +6,7 @@
 
 *Among the variables, the 5 most significant variables were determined. First, a prediction model was created by choosing 2 variables, then another model was created with 5 variables.
 
-*Scatter plot from matplotlib and Jointplot from seaborn library were used for visualizations.
+*Scatter plot from Matplotlib and Jointplot from Seaborn library were used for visualizations.
 
 *The model was developed with linear regression.
 
