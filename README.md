@@ -12,4 +12,6 @@
 
 *MAE, R2_SCORE, MSE AND RMSE are taken into account in the predict results.
 
+*Developed the model and achieved 80% success with R2_SCORE.
+
 *House price prediction data set is used.(kaggle competiton dataset)
