@@ -10,4 +10,6 @@
 
 *The model was developed with linear regression.
 
+*MAE, R2_SCORE, MSE AND RMSE are taken into account in the predict results.
+
 *House price prediction data set is used.(kaggle competiton dataset)
