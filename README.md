@@ -1,4 +1,4 @@
-# house_price_prediction_lineer_regression
+# house_price_prediction_linear_regression
 
 *In this data, the characteristics of each house are explained by giving 79 different variables. The aim of this study is to predict the sales price for each house. 
 
