@@ -4,7 +4,7 @@
 
 *The explanations of the variables are given at the beginning of the notebook.
 
-*Among the variables, the 5 most significant variables were determined. First, a prediction model was created by choosing 2 variables, then another model was created with 5 variables.
+*Among the variables, the 5 most significant variables were determined. First, a prediction model was created by choosing 2 variables, then another model was created with 5 variables, 10 variables, and 15 variables.
 
 *Scatter plot from Matplotlib and Jointplot from Seaborn library were used for visualizations.
 
